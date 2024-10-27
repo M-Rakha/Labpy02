@@ -7,5 +7,7 @@ Matkul : Bahasa Pemrograman
 
 # Program Tiket Bioskop
 
+https://github.com/M-Rakha/Labpy02/blob/246ae1a66dbe1dd99ac193dcc564239d882a7d9c/images/latihan3.png
+
 
 
