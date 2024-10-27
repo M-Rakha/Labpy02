@@ -98,4 +98,6 @@ Hasil program tersebut:
 
 Code program tersebut:
 
+![gambar](https://github.com/M-Rakha/Labpy02/blob/45b616bb66fc07eddf7f961d59deaaf373be11a9/images/python2.png)
+
 
