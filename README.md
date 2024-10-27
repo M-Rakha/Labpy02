@@ -90,5 +90,9 @@ Jika pengguna adalah member (status_member == "ya"), harga tiket akan dikurangi 
 print(f"Total harga yang harus dibayar: Rp{total_harga:.2f}")
 ```
 
+Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya
+
+Hasil program tersebut:
+
 
 
