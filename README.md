@@ -187,6 +187,8 @@ Hasil program tersebut:
 
 Code program tersebut:
 
+![gambar](https://github.com/M-Rakha/Labpy02/blob/45fd22c310e0f9a315297f81cca2e7fb4e3ca228/images/python5.png)
+
 
 
 
