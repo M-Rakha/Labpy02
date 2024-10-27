@@ -140,5 +140,12 @@ def kalkulator():
 kalkulator()
 ```
 
+Program kalkulator sederhana dalam Python adalah proyek yang baik untuk pemula dan programmer tingkat lanjut. Program ini memungkinkan pengguna untuk melakukan operasi matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+
+``` pygthon
+angka1 = float(input("Masukkan angka pertama: "))
+    angka2 = float(input("Masukkan angka kedua: "))
+    operator = input("Masukkan operator (+, -, *, /): ").strip()
+```
 
 
