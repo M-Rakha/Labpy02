@@ -165,5 +165,18 @@ if operator == "+":
             return
 ```
 
+Jika operator adalah +, maka fungsi akan menjumlahkan kedua angka (angka1 + angka2), Jika operator adalah -, maka fungsi akan mengurangi angka pertama dengan angka kedua (angka1 - angka2), Jika operator adalah *, maka fungsi akan mengalikan angka pertama dengan angka kedua (angka1 * angka2), Jika operator adalah /, maka fungsi akan membagi angka pertama dengan angka kedua (angka1 / angka2). Namun, sebelum melakukan pembagian, fungsi memastikan bahwa angka kedua (angka2) tidak bernilai nol, karena pembagian dengan nol tidak valid dan akan menyebabkan error.
+
+ ``` python
+ else:
+        print("Error: Operator tidak valid!")
+        return
+
+    # Menampilkan hasil
+    print(f"Hasil: {hasil}")
+
+# Memanggil fungsi
+kalkulator()
+```
 
 
