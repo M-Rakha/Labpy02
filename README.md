@@ -96,4 +96,6 @@ Hasil program tersebut:
 
 ![gambar](https://github.com/M-Rakha/Labpy02/blob/a77cfa90288be7ef4a88ebb19d35814b35bec02a/images/python1.png)
 
+Code program tersebut:
+
 
