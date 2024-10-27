@@ -189,7 +189,9 @@ Code program tersebut:
 
 ![gambar](https://github.com/M-Rakha/Labpy02/blob/45fd22c310e0f9a315297f81cca2e7fb4e3ca228/images/python5.png)
 
+Dan ini flowchart nya
 
+![gambar](https://github.com/andreanbadeh/Labpy02/raw/6478a017cad461f2f5d5a1b6931d4ac7004497dd/Image/Screenshot%202024-10-26%20051738.png)
 
 
 
