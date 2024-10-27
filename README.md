@@ -46,3 +46,9 @@ def hitung_harga_tiket():
 hitung_harga_tiket()
 ```
 
+Program ini akan menentukan harga pesanan tiket bioskop, Yang reguler/Vip, dan jika Vip harga 100.000, dan jika reguler 80.0000, dan jika memiliki kartu member pelanggan tersebut akan mendapatkan diskon 20%
+
+``` python
+ harga_reguler = 50000
+    harga_vip = 100000
+```
