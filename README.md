@@ -59,3 +59,16 @@ Untuk menentukan harga tiket tersebut
 tipe_tiket = input("Masukkan tipe tiket (reguler/VIP): ").strip().lower()
     status_member = input("Apakah Anda memiliki kartu member? (ya/tidak): ").strip().lower()
 ```
+
+Pengguna diminta untuk memasukkan tipe tiket yang mereka inginkan, bisa "reguler" atau "VIP", Pengguna juga diminta untuk menjawab apakah mereka memiliki kartu member, dengan pilihan "ya" atau "tidak"
+
+``` python
+if tipe_tiket == "reguler":
+        harga_tiket = harga_reguler
+    elif tipe_tiket == "vip":
+        harga_tiket = harga_vip
+    else:
+        print("Tipe tiket tidak valid!")
+        return
+```
+
