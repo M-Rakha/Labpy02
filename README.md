@@ -179,4 +179,12 @@ Jika operator adalah +, maka fungsi akan menjumlahkan kedua angka (angka1 + angk
 kalkulator()
 ```
 
+Jika pengguna memasukkan operator yang tidak dikenali (bukan +, -, *, atau /), Setelah operasi berhasil dijalankan, hasil perhitungan akan ditampilkan kepada pengguna
+
+Hasil program tersebut:
+
+
+
+
+
 
