@@ -52,3 +52,10 @@ Program ini akan menentukan harga pesanan tiket bioskop, Yang reguler/Vip, dan j
  harga_reguler = 50000
     harga_vip = 100000
 ```
+
+Untuk menentukan harga tiket tersebut
+
+``` python
+tipe_tiket = input("Masukkan tipe tiket (reguler/VIP): ").strip().lower()
+    status_member = input("Apakah Anda memiliki kartu member? (ya/tidak): ").strip().lower()
+```
