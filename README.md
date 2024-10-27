@@ -106,6 +106,8 @@ Dan ini flowchart nya
 
 # Prorgam Kalkulator Sederhana
 
+![gambar](https://github.com/M-Rakha/Labpy02/blob/0d565d11da97c7c10143e497bcc05fc40fcf8ad6/images/kalkulator.png)
+
 
 
 
