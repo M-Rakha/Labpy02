@@ -100,4 +100,10 @@ Code program tersebut:
 
 ![gambar](https://github.com/M-Rakha/Labpy02/blob/45b616bb66fc07eddf7f961d59deaaf373be11a9/images/python2.png)
 
+Dan ini flowchart nya
+
+![gambar](https://github.com/andreanbadeh/Labpy02/raw/6478a017cad461f2f5d5a1b6931d4ac7004497dd/Image/tiket%20biskop.png)
+
+
+
 
